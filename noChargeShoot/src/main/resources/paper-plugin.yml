@@ -1,0 +1,4 @@
+name: noChargeShoot
+version: '1.0-SNAPSHOT'
+main: org.rn2rg2plugin.noChargeShoot.NoChargeShoot
+api-version: '1.21'

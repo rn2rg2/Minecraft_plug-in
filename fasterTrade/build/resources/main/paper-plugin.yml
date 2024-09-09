@@ -1,0 +1,4 @@
+name: fasterTrade
+version: '1.0-SNAPSHOT'
+main: org.rn2rg2plugin.fasterTrade.FasterTrade
+api-version: '1.21'
