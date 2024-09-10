@@ -1,0 +1,4 @@
+name: easilytrading
+version: '1.0-SNAPSHOT'
+main: org.rn2rg2plugin.easilytrading.Easilytrading
+api-version: '1.21'
