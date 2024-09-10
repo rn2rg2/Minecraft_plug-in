@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/MinecraftPlugin.iml" filepath="$PROJECT_DIR$/.idea/MinecraftPlugin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/easilyTrading.main.iml" filepath="$PROJECT_DIR$/.idea/modules/easilyTrading.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/fasterTrade.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fasterTrade.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/noChargeShoot.main.iml" filepath="$PROJECT_DIR$/.idea/modules/noChargeShoot.main.iml" />
     </modules>
