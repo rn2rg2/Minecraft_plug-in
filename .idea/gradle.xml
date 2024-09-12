@@ -4,6 +4,15 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/ShulkerPack" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/ShulkerPack" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/easilyTrading/src/main/shulckerBag" />
         <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
@@ -27,6 +36,15 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/noChargeShoot" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../ShulkerPlus" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../ShulkerPlus" />
           </set>
         </option>
       </GradleProjectSettings>

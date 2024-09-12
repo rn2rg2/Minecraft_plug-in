@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ShulkerPack.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ShulkerPack.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ShulkerPlus.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ShulkerPlus.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/easilyTrading.main.iml" filepath="$PROJECT_DIR$/.idea/modules/easilyTrading.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/fasterTrade.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fasterTrade.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/noChargeShoot.main.iml" filepath="$PROJECT_DIR$/.idea/modules/noChargeShoot.main.iml" />
