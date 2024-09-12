@@ -3,7 +3,7 @@ plugins {
 }
 
 group = 'org.rn2rg2plugin'
-version = '1.4'
+version = '1.5'
 
 repositories {
     mavenCentral()
@@ -40,7 +40,7 @@ tasks.withType(JavaCompile).configureEach {
 }
 
 tasks.jar{
-    archiveFileName = 'ShulkerPlus.jar'
+    archiveFileName = 'ShulkerPacks.jar'
     destinationDirectory = file('/Users/harrisonrandy/DEV_Minecraft/plugins')
 }
 

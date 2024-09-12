@@ -1,4 +1,4 @@
-package org.rn2rg2plugin.shulkerPlus;
+package org.rn2rg2plugin.shulkerPacks;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Sound;
@@ -11,12 +11,13 @@ import org.bukkit.event.inventory.InventoryCloseEvent;
 import org.bukkit.inventory.Inventory;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.BlockStateMeta;
+import org.bukkit.plugin.Plugin;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class ShulkerPlusEvents implements Listener {
+public class PackEvents implements Listener {
     private final JavaPlugin plugin; //final 을 통해서 생성자를 이용해 한번만 받아옴
 
-    public ShulkerPlusEvents(JavaPlugin plugin) { // 생성자를 이용해 shulkerPack 클래스 plugin을 등록
+    public PackEvents(JavaPlugin plugin) { // 생성자를 이용해 shulkerPack 클래스 plugin을 등록
         this.plugin = plugin;
     }
 

@@ -1,0 +1,4 @@
+name: ShulkerPacks
+version: '1.0'
+main: org.rn2rg2plugin.shulkerPacks.ShulkerPacks
+api-version: '1.21'
