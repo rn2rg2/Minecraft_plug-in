@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/easilyTrading.iml" filepath="$PROJECT_DIR$/.idea/modules/easilyTrading.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/easilyTrading.main.iml" filepath="$PROJECT_DIR$/.idea/modules/easilyTrading.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/easilyTrading.test.iml" filepath="$PROJECT_DIR$/.idea/modules/easilyTrading.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fasterTrade.iml" filepath="$PROJECT_DIR$/.idea/modules/fasterTrade.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/fasterTrade.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fasterTrade.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fasterTrade.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fasterTrade.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/noChargeShoot.iml" filepath="$PROJECT_DIR$/.idea/modules/noChargeShoot.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/noChargeShoot.main.iml" filepath="$PROJECT_DIR$/.idea/modules/noChargeShoot.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/noChargeShoot.test.iml" filepath="$PROJECT_DIR$/.idea/modules/noChargeShoot.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shulckerBag.main.iml" filepath="$PROJECT_DIR$/.idea/modules/shulckerBag.main.iml" />
     </modules>
   </component>
 </project>

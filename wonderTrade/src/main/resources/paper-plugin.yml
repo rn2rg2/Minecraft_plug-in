@@ -1,4 +1,0 @@
-name: wonderTrade
-version: '1.0-SNAPSHOT'
-main: org.rn2rg2plugin.wonderTrade.WonderTrade
-api-version: '1.21'
