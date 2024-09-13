@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ShulkerPacks.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ShulkerPacks.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/easilyTrading.main.iml" filepath="$PROJECT_DIR$/.idea/modules/easilyTrading.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WanderingTraderPlus.main.iml" filepath="$PROJECT_DIR$/.idea/modules/WanderingTraderPlus.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/fasterTrade.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fasterTrade.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/noChargeShoot.main.iml" filepath="$PROJECT_DIR$/.idea/modules/noChargeShoot.main.iml" />
     </modules>

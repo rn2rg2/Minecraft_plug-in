@@ -1,0 +1,4 @@
+name: WanderingTraderPlus
+version: '1.0'
+main: org.rn2rg2plugin.wanderingTraderPlus.WanderingTraderPlus
+api-version: '1.21'
